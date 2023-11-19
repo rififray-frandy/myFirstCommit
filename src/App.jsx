@@ -1,5 +1,5 @@
 import { useState } from 'react'
-
+import Head from './Head'
 
 
 
@@ -9,6 +9,8 @@ function App() {
   return (
     <>
       <h1>FRANDY DELICE LEARNING GIT </h1>
+
+      <Head/>
     </>
   )
 }
